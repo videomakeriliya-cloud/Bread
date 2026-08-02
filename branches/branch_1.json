@@ -85,6 +85,17 @@
       "image": "images/mashhadi.webp"
     }
   ],
-  "نان لواش": [],
-  "دیگر‌ نان ها ی سنتی": []
+  "نان لواش": [
+    {
+      "name": "نان لواش ساده",
+      "price": 10000,
+      "image": "images/lavash_sade.webp"
+    },
+    {
+      "name": "نان لواش بدون دور ریز",
+      "price": 10000,
+      "image": "images/lavash_ghanishode.webp"
+    }
+  ],
+  "دیگر‌نان های سنتی": []
 }
