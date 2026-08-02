@@ -1,0 +1,52 @@
+[
+  {
+    "id": "branch_1",
+    "name": "نانوایی شعبه ۱",
+    "file": "branches/branch_1.json"
+  },
+  {
+    "id": "branch_2",
+    "name": "نانوایی شعبه ۲",
+    "file": "branches/branch_2.json"
+  },
+  {
+    "id": "branch_3",
+    "name": "نانوایی شعبه ۳",
+    "file": "branches/branch_3.json"
+  },
+  {
+    "id": "branch_4",
+    "name": "نانوایی شعبه ۴",
+    "file": "branches/branch_4.json"
+  },
+  {
+    "id": "branch_5",
+    "name": "نانوایی شعبه ۵",
+    "file": "branches/branch_5.json"
+  },
+  {
+    "id": "branch_6",
+    "name": "نانوایی شعبه ۶",
+    "file": "branches/branch_6.json"
+  },
+  {
+    "id": "branch_7",
+    "name": "نانوایی شعبه ۷",
+    "file": "branches/branch_7.json"
+  },
+  {
+    "id": "branch_8",
+    "name": "نانوایی شعبه ۸",
+    "file": "branches/branch_8.json"
+  },
+  {
+    "id": "branch_9",
+    "name": "نانوایی شعبه ۹",
+    "file": "branches/branch_9.json"
+  },
+  {
+    "id": "branch_10",
+    "name": "نانوایی شعبه ۱۰",
+    "file": "branches/branch_10.json"
+  }
+]
