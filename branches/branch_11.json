@@ -96,7 +96,13 @@
       "image": "images/FELFEL_BOZARG.webp"
     }
   ],
-  "سبزی‌جات": [],
+  "سبزی‌جات": [
+    {
+      "name": "سبزی خوردن",
+      "price": 10000,
+      "image": "images/KHORDAN.webp"
+    }
+  ],
   "میوه": [],
   "میوه ۲": [],
   "میوه ۳": []
