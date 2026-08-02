@@ -123,5 +123,37 @@
       "price": 10000,
       "image": "images/rovghani_kongedi.webp"
     }
+  ],
+  "نان فانتزی": [
+    {
+      "name": "نان باگت ساده",
+      "price": 10000,
+      "image": "images/Baget_sade.webp"
+    },
+    {
+      "name": "نان باگت کنجدی",
+      "price": 10000,
+      "image": "images/Baget_kongadi.webp"
+    },
+    {
+      "name": "مینی باگت ساده",
+      "price": 10000,
+      "image": "images/MINIBAGET_SADE.webp"
+    },
+    {
+      "name": "بسته ی ۵ تایی مینی باگت ساده",
+      "price": 10000,
+      "image": "images/MINIBAGET_SADEBASTEYY.webp"
+    },
+    {
+      "name": "باگت همبرگری",
+      "price": 10000,
+      "image": "images/HAMBERGER_SADE.webp"
+    },
+    {
+      "name": "همبرگر کنجدی",
+      "price": 10000,
+      "image": "images/HAMBERGER_KONGEDI.webp"
+    }
   ]
 }
