@@ -67,22 +67,22 @@
     {
       "name": "نان تافتون ساده",
       "price": 10000,
-      "image": "taftoon_sade.webp"
+      "image": "images/taftoon_sade.webp"
     },
     {
       "name": "نان تافتون غنی شده",
       "price": 10000,
-      "image": "taftoon_ghanishode.webp"
+      "image": "images/taftoon_ghanishode.webp"
     },
     {
       "name": "نان کامل",
       "price": 10000,
-      "image": "taftoon_ghanishode2"
+      "image": "images/taftoon_ghanishode2"
     },
     {
       "name": "نان مشهدی",
       "price": 10000,
-      "image": "mashhadi.webp"
+      "image": "images/mashhadi.webp"
     }
   ],
   "نان لواش": [],
