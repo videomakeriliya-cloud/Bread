@@ -97,5 +97,31 @@
       "image": "images/lavash_ghanishode.webp"
     }
   ],
-  "دیگر‌نان های سنتی": []
+  "دیگر‌نان های سنتی": [
+    {
+      "name": "نان روغنی ساده",
+      "price": 10000,
+      "image": "images/Rovghani_sade.webp"
+    },
+    {
+      "name": "نان خرمایی",
+      "price": 10000,
+      "image": "images/khormayy_sade.webp"
+    },
+    {
+      "name": "نان چاو دار",
+      "price": 10000,
+      "image": "images/Chavdar_sade.webp"
+    },
+    {
+      "name": "کلوچه ی فومنی ساده",
+      "price": 10000,
+      "image": "images/foomani.webp"
+    },
+    {
+      "name": "نان روغنی کنجدی",
+      "price": 10000,
+      "image": "images/rovghani_kongedi.webp"
+    }
+  ]
 }
