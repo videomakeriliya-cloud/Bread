@@ -14,5 +14,5 @@
     {"name": "نان بربری سبزیجات", "price": 15000, "image": "images/barbary_sabzijat.webp"},
     {"name": "نان بربری سیاه دانه", "price": 13000, "image": "images/barbary_syahdane.webp"},
     {"name": "نان بربری تخم آفتابگردان", "price": 14500, "image": "images/barbary_tokhmeaftabgarden.webp"}
-  ],
+  ]
 }
