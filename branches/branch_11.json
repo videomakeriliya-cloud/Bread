@@ -46,6 +46,16 @@
       "image": "images/BADEMJAN_SADE.webp"
     },
     {
+      "name": "بادمجان لامپی",
+      "price": 10000,
+      "image": "images/BADEMGOON_LAMPY.webp"
+    },
+    {
+      "name": "کدو",
+      "price": 10000,
+      "image": "images/KADOO.webp"
+    },
+    {
       "name": "کاهو",
       "price": 10000,
       "image": "images/KAHOO_SADE.webp"
@@ -54,6 +64,11 @@
       "name": "کاهو پیچ",
       "price": 10000,
       "image": "images/KAHOO.webp"
+    },
+    {
+      "name": "فلفل شیرین",
+      "price": 10000,
+      "image": "images"
     },
     {
       "name": "کلم سفید",
@@ -76,9 +91,9 @@
       "image": "images/ZANGEBIL_SADE.webp"
     },
     {
-      "name": "بادمجان لامپی",
+      "name": "فلفل تند",
       "price": 10000,
-      "image": "images/BADEMGOON_LAMPY.webp"
+      "image": "images/FELFEL_BOZARG.webp"
     }
   ],
   "سبزی‌جات": [],
