@@ -1,102 +1,109 @@
-[
-  {
-    "file": "branches/branch_1.json",
-    "id": "branch_1",
-    "name": "نانوایی شعبه ۱"
-  },
-  {
-    "file": "branches/branch_2.json",
-    "id": "branch_2",
-    "name": "نانوایی شعبه ۲"
-  },
-  {
-    "file": "branches/branch_3.json",
-    "id": "branch_3",
-    "name": "نانوایی شعبه ۳"
-  },
-  {
-    "file": "branches/branch_4.json",
-    "id": "branch_4",
-    "name": "نانوایی شعبه ۴"
-  },
-  {
-    "file": "branches/branch_5.json",
-    "id": "branch_5",
-    "name": "نانوایی شعبه ۵"
-  },
-  {
-    "file": "branches/branch_6.json",
-    "id": "branch_6",
-    "name": "نانوایی شعبه ۶"
-  },
-  {
-    "file": "branches/branch_7.json",
-    "id": "branch_7",
-    "name": "نانوایی شعبه ۷"
-  },
-  {
-    "file": "branches/branch_8.json",
-    "id": "branch_8",
-    "name": "نانوایی شعبه ۸"
-  },
-  {
-    "file": "branches/branch_9.json",
-    "id": "branch_9",
-    "name": "نانوایی شعبه ۹"
-  },
-  {
-    "file": "branches/branch_10.json",
-    "id": "branch_10",
-    "name": "نانوایی شعبه ۱۰"
-  },
-  {
-    "file": "branches/branch_11.json",
-    "id": "branch_11",
-    "name": "میوه فروشی شعبه ۱"
-  },
-  {
-    "file": "branches/branch_12.json",
-    "id": "branch_12",
-    "name": "میوه فروشی شعبه ۲"
-  },
-  {
-    "file": "branches/branch_13.json",
-    "id": "branch_13",
-    "name": "میوه فروشی شعبه ۳"
-  },
-  {
-    "file": "branches/btanch_14.json",
-    "id": "branch_14",
-    "name": "میوه فروشی شعبه ۴"
-  },
-  {
-    "file": "branches/branch_15.json",
-    "id": "branch_15",
-    "name": "میوه فروشی شعبه ۵"
-  },
-  {
-    "file": "branches/branch_16.json",
-    "id": "branch_16",
-    "name": "میوه فروشی شعبه ۶"
-  },
-  {
-    "file": "branches/branch_17.json",
-    "id": "branch_17",
-    "name": "میوه فروشی شعبه ۷"
-  },
-  {
-    "file": "branches/branch_18.json",
-    "id": "branch_18",
-    "name": "میوه فروشی شعبه ۸"
-  },
-  {
-    "file": "branches/branch_19.json",
-    "id": "branch_19",
-    "name": "میوه فروشی شعبه ۹"
-  },
-  {
-    "file": "branches/branch_20.json",
-    "id": "branch_20",
-    "name": "میوه فروشی شعبه ۱۰"
-  }
-]
+{
+  "سیفی‌جات": [
+    {
+      "name": "گوجه",
+      "price": 10000,
+      "image": "images/GOGE_SADE.webp"
+    },
+    {
+      "name": "گوجه بوته ای",
+      "price": 10000,
+      "image": "images/GOVGE_BOOTE.webp"
+    },
+    {
+      "name": "سیب زمینی",
+      "price": 10000,
+      "image": "images/SIBZAMINI.webp"
+    },
+    {
+      "name": "خیار درختی",
+      "price": 10000,
+      "image": "images/Khyar.webp"
+    },
+    {
+      "name": "خیار بوته ای",
+      "price": 10000,
+      "image": "images/KHYAR_BOOTEII.webp"
+    },
+    {
+      "name": "پیاز سفید",
+      "price": 10000,
+      "image": "images/PIYAZ_SEFID.webp"
+    },
+    {
+      "name": "پیاز طلایی",
+      "price": 10000,
+      "image": "images/PIYAZ_TALAYY.webp"
+    },
+    {
+      "name": "هویج",
+      "price": 10000,
+      "image": "images/HAVIG.webp"
+    },
+    {
+      "name": "بادمجان",
+      "price": 10000,
+      "image": "images/BADEMJAN_SADE.webp"
+    },
+    {
+      "name": "بادمجان لامپی",
+      "price": 10000,
+      "image": "images/BADEMGOON_LAMPY.webp"
+    },
+    {
+      "name": "کدو",
+      "price": 10000,
+      "image": "images/KADOO.webp"
+    },
+    {
+      "name": "کاهو",
+      "price": 10000,
+      "image": "images/KAHOO_SADE.webp"
+    },
+    {
+      "name": "کاهو پیچ",
+      "price": 10000,
+      "image": "images/KAHOO.webp"
+    },
+    {
+      "name": "فلفل تند",
+      "price": 10000,
+      "image": "images/FELFEL_BOZARG.webp"
+    },
+    {
+      "name": "فلفل شیرین",
+      "price": 10000,
+      "image": "images/FELFEL_SADE.webp"
+    },
+    {
+      "name": "کلم سفید",
+      "price": 10000,
+      "image": "images/KALAM_SEFID.webp"
+    },
+    {
+      "name": "کلم بنفش",
+      "price": 10000,
+      "image": "images/KALAM_BANAFSH.webp"
+    },
+    {
+      "name": "گل کلم",
+      "price": 10000,
+      "image": "images/GOLKALAM.webp"
+    },
+    {
+      "name": "زنجبیل ساده",
+      "price": 10000,
+      "image": "images/ZANGEBIL_SADE.webp"
+    }
+  ],
+  "سبزی‌جات": [
+    {
+      "name": "سبزی خوردن",
+      "price": 10000,
+      "image": "images/KHORDAN.webp"
+    }
+  ],
+  "میوه": [],
+  "میوه ۲": [],
+  "میوه ۳": []
+}
