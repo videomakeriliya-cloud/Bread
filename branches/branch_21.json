@@ -1,0 +1,74 @@
+{
+  "شیر": [
+    {
+      "name": "دامداران پاستوریزه پر چرب",
+      "price": 10000,
+      "image": "images_2/DAMDARAN_PASTORIZR_PORCHARB.webp"
+    },
+    {
+      "name": "دامداران پاستوریزه کم چرب",
+      "price": 10000,
+      "image": "images_2/DAMDARAN_PASTORIZE_KAMCHARB.webp"
+    },
+    {
+      "name": "پگاه پاستوریزه پر چرب",
+      "price": 10000,
+      "image": "images_2/PEGAH_PASTORIZE_PORCHARB.webp"
+    },
+    {
+      "name": "پگاه پاستوریزه کم چرب",
+      "price": 10000,
+      "image": "images_2/PEGAH_PASTORIZE_KAMCHARB.webp"
+    },
+    {
+      "name": "کاله پاستوریزه پر چرب",
+      "price": 10000,
+      "image": "images_2/KALEH_PASTORIZE_PORCHARB.webp"
+    },
+    {
+      "name": "کاله پاستوریزه کم چرب",
+      "price": 10000,
+      "image": "images_2/KALEH_PASTORIZE_KAMXHARB.webp"
+    },
+    {
+      "name": "پانیزان پاستوریزه پر چرب",
+      "price": 10000,
+      "image": "images_2/PANIZAN_PASTORIZE_PORCHARB.webp"
+    },
+    {
+      "name": "پانیزان پاستوریزه کم چرب",
+      "price": 10000,
+      "image": "images_2/PANIZAN_PASTORIZE_KAMCHARB.webp"
+    },
+    {
+      "name": "چوپان پاستوریزه پر چرب",
+      "price": 10000,
+      "image": "images_2/CHOOPAN_PASTORIZE_PORCHRB.webp"
+    },
+    {
+      "name": "چوپان پاستوریزه کم چرب",
+      "price": 10000,
+      "image": "images_2/CHOOPAN_PASTORIZE_KAMCHRB.webp"
+    },
+    {
+      "name": "پاک پاستوریزه پر چرب",
+      "price": 10000,
+      "image": "images_2/PAK_PASTORIZE_PORCHARB.webp"
+    },
+    {
+      "name": "پاک پاستوریزه کم چرب",
+      "price": 10000,
+      "image": "images_2/PAK_PASTORIZE_KAMCHARB.webp"
+    },
+    {
+      "name": "ماهشام پاستوریزه پر چرب",
+      "price": 10000,
+      "image": "images_2/MAHSHAM_PASTORIZE_PORCHARB.webp"
+    },
+    {
+      "name": "ماهشام پاستوریزه کم چرب",
+      "price": 10000,
+      "image": "images_2/MAHSHAM_PASTORIZE_KAMCHARB.webp"
+    }
+  ]
+}
