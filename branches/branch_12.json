@@ -193,7 +193,210 @@
       "image": "images/GHORME.webp"
     }
   ],
-  "میوه": [],
-  "میوه ۲": [],
-  "میوه ۳": []
+  "میوه": [
+    {
+      "name": "سیب زرد",
+      "price": 10000,
+      "image": "images/SIB_SADE.webp"
+    },
+    {
+      "name": "سیب سبز",
+      "price": 10000,
+      "image": "images/SIB_SABZ.webp"
+    },
+    {
+      "name": "سیب قرمز",
+      "price": 10000,
+      "image": "images/SIB_GERMEZ.webp"
+    },
+    {
+      "name": "سیب گلاب",
+      "price": 10000,
+      "image": "images/SIBGOLAB.webp"
+    },
+    {
+      "name": "پرتقال",
+      "price": 10000,
+      "image": "images/PORTEGHAL.webp"
+    },
+    {
+      "name": "گلابی",
+      "price": 10000,
+      "image": "images/GOLABI.webp"
+    },
+    {
+      "name": "گلابی گلاب",
+      "price": 10000,
+      "image": "images/GOLABI_GOLAB.webp"
+    },
+    {
+      "name": "لیمو ترش",
+      "price": 10000,
+      "image": "images/LIMOOTORSH.webp"
+    },
+    {
+      "name": "لیمو ترش سنگی",
+      "price": 10000,
+      "image": "images/LIMOOTORSH_SANGI.webp"
+    },
+    {
+      "name": "هلو",
+      "price": 10000,
+      "image": "images/HOLOO.webp"
+    },
+    {
+      "name": "هلو انجیری",
+      "price": 10000,
+      "image": "images/HOLOOANJIRI.webp"
+    },
+    {
+      "name": "شلیل",
+      "price": 10000,
+      "image": "images/SHALIL.webp"
+    },
+    {
+      "name": "آلو زرد",
+      "price": 10000,
+      "image": "images/ALOOZARD.webp"
+    },
+    {
+      "name": "آلو قرمز",
+      "price": 10000,
+      "image": "images/ALOOGHERMEZ.webp"
+    },
+    {
+      "name": "انجیر زرد",
+      "price": 10000,
+      "image": "images/ANJIR_ZARD.webp"
+    },
+    {
+      "name": "انجیر قرمز",
+      "price": 10000,
+      "image": "images/ANJIRGHERMEZ.webp"
+    }
+  ],
+  "میوه ۲": [
+    {
+      "name": "موز",
+      "price": 10000,
+      "image": "images/MOOZ.webp"
+    },
+    {
+      "name": "انگور بی دونه",
+      "price": 10000,
+      "image": "images/ANGOORBIDOONE.webp"
+    },
+    {
+      "name": "انگور کندری",
+      "price": 10000,
+      "image": "images/ANGOORKONDORI.webp"
+    },
+    {
+      "name": "انگور سیاه",
+      "price": 10000,
+      "image": "images/ANGOORSYAH.webp"
+    },
+    {
+      "name": "انگور یاقوتی",
+      "price": 10000,
+      "image": "images/ANGOORYAGHOOTI.webp"
+    },
+    {
+      "name": "آلو سیاه",
+      "price": 10000,
+      "image": "images/ALOO.webp"
+    },
+    {
+      "name": "شبرنگ",
+      "price": 10000,
+      "image": "images/SHABRANG.webp"
+    },
+    {
+      "name": "گیلاس",
+      "price": 10000,
+      "image": "images/GILAS.webp"
+    },
+    {
+      "name": "آلبالو",
+      "price": 10000,
+      "image": "images/ALBALOOO.webp"
+    },
+    {
+      "name": "انبه",
+      "price": 10000,
+      "image": "images/ANBE.webp"
+    },
+    {
+      "name": "ذغال اخته",
+      "price": 10000,
+      "image": "images/ZOGHALAKHTE.webp"
+    },
+    {
+      "name": "توت فرنگی",
+      "price": 10000,
+      "image": "images/TOOTFARANGI.webp"
+    },
+    {
+      "name": "شاه توت",
+      "price": 10000,
+      "image": "images/SHATOOT.webp"
+    },
+    {
+      "name": "بلو بری",
+      "price": 10000,
+      "image": "images/BLOOBERY.webp"
+    },
+    {
+      "name": "پشن فروت",
+      "price": 10000,
+      "image": "images/PASHENFROOT.webp"
+    },
+    {
+      "name": "آناناس",
+      "price": 10000,
+      "image": "images/ANANAS.webp"
+    }
+  ],
+  "میوه ۳": [
+    {
+      "name": "هندوانه",
+      "price": 10000,
+      "image": "images/HENDEVANE.webp"
+    },
+    {
+      "name": "طالبی",
+      "price": 10000,
+      "image": "images/TALEBI.webp"
+    },
+    {
+      "name": "جانا",
+      "price": 10000,
+      "image": "images/JANA.webp"
+    },
+    {
+      "name": "جانا پیوندی",
+      "price": 10000,
+      "image": "images/JANAPEYVANDI.webp"
+    },
+    {
+      "name": "خربزه",
+      "price": 10000,
+      "image": "images/KHARBOZE.webp"
+    },
+    {
+      "name": "خربزه",
+      "price": 10000,
+      "image": "images/KHARBOZE.webp"
+    },
+    {
+      "name": "انبه",
+      "price": 10000,
+      "image": "images/ANBE.webp"
+    },
+    {
+      "name": "آووکادو",
+      "price": 10000,
+      "image": "images/AVOKADO.webp"
+    }
+  ]
 }
