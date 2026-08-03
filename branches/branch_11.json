@@ -108,6 +108,21 @@
       "image": "images/REYHOON.webp"
     },
     {
+      "name": "ریحون تیره",
+      "price": 10000,
+      "image": "images/REYHOONSYA.webp"
+    },
+    {
+      "name": "پیازچه",
+      "price": 10000,
+      "image": "images/PIAZCHE.webp"
+    },
+    {
+      "name": "جعفری",
+      "price": 10000,
+      "image": "images/GAFARI.webp"
+    },
+    {
       "name": "کلم بروکلی",
       "price": 10000,
       "image": "images/KALAMBROOKLY.webp"
@@ -118,9 +133,24 @@
       "image": "images/KARAFS.webp"
     },
     {
+      "name": "تربچه",
+      "price": 10000,
+      "image": "images/TOROBCHE.webp"
+    },
+    {
+      "name": "شیوید",
+      "price": 10000,
+      "image": "images/SHEVID.webp"
+    },
+    {
       "name": "رزماری",
       "price": 10000,
       "image": "images/ROZMARY.webp"
+    },
+    {
+      "name": "سیر",
+      "price": 10000,
+      "image": "images/SEER.webp"
     },
     {
       "name": "شیوید خشک",
@@ -131,6 +161,21 @@
       "name": "نعنا خشک",
       "price": 10000,
       "image": "images/NANAKHOSHK.webp"
+    },
+    {
+      "name": "اسفناج",
+      "price": 10000,
+      "image": "images/ESSFENAJ.webp"
+    },
+    {
+      "name": "بلال",
+      "price": 10000,
+      "image": "images/BALAL.webp"
+    },
+    {
+      "name": "بلال مکزیکی",
+      "price": 10000,
+      "image": "images/BALALMAKZIKI.webp"
     },
     {
       "name": "پولو",
@@ -146,51 +191,6 @@
       "name": "قرمه",
       "price": 10000,
       "image": "images/GHORME.webp"
-    },
-    {
-      "name": "پیازچه",
-      "price": 10000,
-      "image": "images/PIAZCHE.webp"
-    },
-    {
-      "name": "جعفری",
-      "price": 10000,
-      "image": "images/GAFARI.webp"
-    },
-    {
-      "name": "بلال",
-      "price": 10000,
-      "image": "images/BALAL.webp"
-    },
-    {
-      "name": "بلال مکزیکی",
-      "price": 10000,
-      "image": "images/BALALMAKZIKI.webp"
-    },
-    {
-      "name": "تربچه",
-      "price": 10000,
-      "image": "images/TOROBCHE.webp"
-    },
-    {
-      "name": "سیر",
-      "price": 10000,
-      "image": "images/SEER.webp"
-    },
-    {
-      "name": "شیوید",
-      "price": 10000,
-      "image": "images/SHEVID.webp"
-    },
-    {
-      "name": "ریحون تیره",
-      "price": 10000,
-      "image": "images/REYHOONSYA.webp"
-    },
-    {
-      "name": "اسفناج",
-      "price": 10000,
-      "image": "images/ESSFENAJ.webp"
     }
   ],
   "میوه": [],
