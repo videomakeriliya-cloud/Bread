@@ -357,5 +357,46 @@
       "image": "images/ANANAS.webp"
     }
   ],
-  "میوه ۳": []
+  "میوه ۳": [
+    {
+      "name": "هندوانه",
+      "price": 10000,
+      "image": "images/HENDEVANE.webp"
+    },
+    {
+      "name": "طالبی",
+      "price": 10000,
+      "image": "images/TALEBI.webp"
+    },
+    {
+      "name": "جانا",
+      "price": 10000,
+      "image": "images/JANA.webp"
+    },
+    {
+      "name": "خربزه",
+      "price": 10000,
+      "image": "images/KHARBOZE.webp"
+    },
+    {
+      "name": "جانا پیوندی",
+      "price": 10000,
+      "image": "images/JANAPEYVANDI.webp"
+    },
+    {
+      "name": "خربزه",
+      "price": 10000,
+      "image": "images/KHARBOZE.webp"
+    },
+    {
+      "name": "انبه",
+      "price": 10000,
+      "image": "images/ANBE.webp"
+    },
+    {
+      "name": "آووکادو",
+      "price": 10000,
+      "image": "images/AVOKADO.webp"
+    }
+  ]
 }
