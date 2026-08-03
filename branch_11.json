@@ -96,13 +96,7 @@
       "image": "images/ZANGEBIL_SADE.webp"
     }
   ],
-  "سبزی‌جات": [
-    {
-      "name": "سبزی خوردن",
-      "price": 10000,
-      "image": "images/KHORDAN.webp"
-    }
-  ],
+  "سبزی‌جات": [],
   "میوه": [],
   "میوه ۲": [],
   "میوه ۳": []
