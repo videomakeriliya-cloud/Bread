@@ -50,52 +50,52 @@
     "name": "نانوایی شعبه ۱۰"
   },
   {
-    "file": "branch_11.json",
+    "file": "branches/branch_11.json",
     "id": "branch_11",
     "name": "میوه فروشی شعبه ۱"
   },
   {
-    "file": "branch_12.json",
+    "file": "branches/branch_12.json",
     "id": "branch_12",
     "name": "میوه فروشی شعبه ۲"
   },
   {
-    "file": "branch_13.json",
+    "file": "branchea/branch_13.json",
     "id": "branch_13",
     "name": "میوه فروشی شعبه ۳"
   },
   {
-    "file": "btanch_14.json",
+    "file": "branches/btanch_14.json",
     "id": "branch_14",
     "name": "میوه فروشی شعبه ۴"
   },
   {
-    "file": "branch_15.json",
+    "file": "branches/branch_15.json",
     "id": "branch_15",
     "name": "میوه فروشی شعبه ۵"
   },
   {
-    "file": "branch_16.json",
+    "file": "branches/branch_16.json",
     "id": "branch_16",
     "name": "میوه فروشی شعبه ۶"
   },
   {
-    "file": "branch_17.json",
+    "file": "branches/branch_17.json",
     "id": "branch_17",
     "name": "میوه فروشی شعبه ۷"
   },
   {
-    "file": "branch_18.json",
+    "file": "branches/branch_18.json",
     "id": "branch_18",
     "name": "میوه فروشی شعبه ۸"
   },
   {
-    "file": "branch_19.json",
+    "file": "branches/branch_19.json",
     "id": "branch_19",
     "name": "میوه فروشی شعبه ۹"
   },
   {
-    "file": "branch_20.json",
+    "file": "branches/branch_20.json",
     "id": "branch_20",
     "name": "میوه فروشی شعبه ۱۰"
   }
