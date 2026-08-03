@@ -113,14 +113,24 @@
       "image": "images/REYHOONSYA.webp"
     },
     {
-      "name": "پیازچه",
-      "price": 10000,
-      "image": "images/PIAZCHE.webp"
-    },
-    {
       "name": "جعفری",
       "price": 10000,
       "image": "images/GAFARI.webp"
+    },
+    {
+      "name": "شیوید",
+      "price": 10000,
+      "image": "images/SHEVID.webp"
+    },
+    {
+      "name": "تربچه",
+      "price": 10000,
+      "image": "images/TOROBCHE.webp"
+    },
+    {
+      "name": "پیازچه",
+      "price": 10000,
+      "image": "images/PIAZCHE.webp"
     },
     {
       "name": "کلم بروکلی",
@@ -131,16 +141,6 @@
       "name": "کرفس",
       "price": 10000,
       "image": "images/KARAFS.webp"
-    },
-    {
-      "name": "تربچه",
-      "price": 10000,
-      "image": "images/TOROBCHE.webp"
-    },
-    {
-      "name": "شیوید",
-      "price": 10000,
-      "image": "images/SHEVID.webp"
     },
     {
       "name": "رزماری",
