@@ -71,6 +71,11 @@
       "image": "images"
     },
     {
+      "name": "فلفل تند",
+      "price": 10000,
+      "image": "images/FELFEL_BOZARG.webp"
+    },
+    {
       "name": "کلم سفید",
       "price": 10000,
       "image": "images/KALAM_SEFID.webp"
@@ -89,11 +94,6 @@
       "name": "زنجبیل ساده",
       "price": 10000,
       "image": "images/ZANGEBIL_SADE.webp"
-    },
-    {
-      "name": "فلفل تند",
-      "price": 10000,
-      "image": "images/FELFEL_BOZARG.webp"
     }
   ],
   "سبزی‌جات": [
