@@ -1,0 +1,102 @@
+[
+  {
+    "file": "branches/branch_1.json",
+    "id": "branch_1",
+    "name": "نانوایی شعبه ۱"
+  },
+  {
+    "file": "branches/branch_2.json",
+    "id": "branch_2",
+    "name": "نانوایی شعبه ۲"
+  },
+  {
+    "file": "branches/branch_3.json",
+    "id": "branch_3",
+    "name": "نانوایی شعبه ۳"
+  },
+  {
+    "file": "branches/branch_4.json",
+    "id": "branch_4",
+    "name": "نانوایی شعبه ۴"
+  },
+  {
+    "file": "branches/branch_5.json",
+    "id": "branch_5",
+    "name": "نانوایی شعبه ۵"
+  },
+  {
+    "file": "branches/branch_6.json",
+    "id": "branch_6",
+    "name": "نانوایی شعبه ۶"
+  },
+  {
+    "file": "branches/branch_7.json",
+    "id": "branch_7",
+    "name": "نانوایی شعبه ۷"
+  },
+  {
+    "file": "branches/branch_8.json",
+    "id": "branch_8",
+    "name": "نانوایی شعبه ۸"
+  },
+  {
+    "file": "branches/branch_9.json",
+    "id": "branch_9",
+    "name": "نانوایی شعبه ۹"
+  },
+  {
+    "file": "branches/branch_10.json",
+    "id": "branch_10",
+    "name": "نانوایی شعبه ۱۰"
+  },
+  {
+    "file": "branches/branch_11.json",
+    "id": "branch_11",
+    "name": "میوه فروشی شعبه ۱"
+  },
+  {
+    "file": "branches/branch_12.json",
+    "id": "branch_12",
+    "name": "میوه فروشی شعبه ۲"
+  },
+  {
+    "file": "branches/branch_13.json",
+    "id": "branch_13",
+    "name": "میوه فروشی شعبه ۳"
+  },
+  {
+    "file": "branches/btanch_14.json",
+    "id": "branch_14",
+    "name": "میوه فروشی شعبه ۴"
+  },
+  {
+    "file": "branches/branch_15.json",
+    "id": "branch_15",
+    "name": "میوه فروشی شعبه ۵"
+  },
+  {
+    "file": "branches/branch_16.json",
+    "id": "branch_16",
+    "name": "میوه فروشی شعبه ۶"
+  },
+  {
+    "file": "branches/branch_17.json",
+    "id": "branch_17",
+    "name": "میوه فروشی شعبه ۷"
+  },
+  {
+    "file": "branches/branch_18.json",
+    "id": "branch_18",
+    "name": "میوه فروشی شعبه ۸"
+  },
+  {
+    "file": "branches/branch_19.json",
+    "id": "branch_19",
+    "name": "میوه فروشی شعبه ۹"
+  },
+  {
+    "file": "branches/branch_20.json",
+    "id": "branch_20",
+    "name": "میوه فروشی شعبه ۱۰"
+  }
+]
