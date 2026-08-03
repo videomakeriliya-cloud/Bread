@@ -374,14 +374,14 @@
       "image": "images/JANA.webp"
     },
     {
-      "name": "خربزه",
-      "price": 10000,
-      "image": "images/KHARBOZE.webp"
-    },
-    {
       "name": "جانا پیوندی",
       "price": 10000,
       "image": "images/JANAPEYVANDI.webp"
+    },
+    {
+      "name": "خربزه",
+      "price": 10000,
+      "image": "images/KHARBOZE.webp"
     },
     {
       "name": "خربزه",
