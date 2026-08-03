@@ -200,6 +200,11 @@
       "image": "images/SIB_SADE.webp"
     },
     {
+      "name": "سیب سبز",
+      "price": 10000,
+      "image": "images/SIB_SABZ.webp"
+    },
+    {
       "name": "سیب قرمز",
       "price": 10000,
       "image": "images/SIB_GERMEZ.webp"
