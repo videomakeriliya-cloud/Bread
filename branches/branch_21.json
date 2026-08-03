@@ -3,72 +3,86 @@
     {
       "name": "دامداران پاستوریزه پر چرب",
       "price": 10000,
-      "image": "images_2/DAMDARAN_PASTORIZR_PORCHARB.webp"
+      "image": "images_2/DAMDARAN_PASTORIZR_PORCHARB.webp",
+      "unit": "piece"
     },
     {
       "name": "دامداران پاستوریزه کم چرب",
       "price": 10000,
-      "image": "images_2/DAMDARAN_PASTORIZE_KAMCHARB.webp"
+      "image": "images_2/DAMDARAN_PASTORIZE_KAMCHARB.webp",
+      "unit": "piece"
     },
     {
       "name": "پگاه پاستوریزه پر چرب",
       "price": 10000,
-      "image": "images_2/PEGAH_PASTORIZE_PORCHARB.webp"
+      "image": "images_2/PEGAH_PASTORIZE_PORCHARB.webp",
+      "unit": "piece"
     },
     {
       "name": "پگاه پاستوریزه کم چرب",
       "price": 10000,
-      "image": "images_2/PEGAH_PASTORIZE_KAMCHARB.webp"
+      "image": "images_2/PEGAH_PASTORIZE_KAMCHARB.webp",
+      "unit": "piece"
     },
     {
       "name": "کاله پاستوریزه پر چرب",
       "price": 10000,
-      "image": "images_2/KALEH_PASTORIZE_PORCHARB.webp"
+      "image": "images_2/KALEH_PASTORIZE_PORCHARB.webp",
+      "unit": "piece"
     },
     {
       "name": "کاله پاستوریزه کم چرب",
       "price": 10000,
-      "image": "images_2/KALEH_PASTORIZE_KAMXHARB.webp"
+      "image": "images_2/KALEH_PASTORIZE_KAMXHARB.webp",
+      "unit": "piece"
     },
     {
       "name": "پانیزان پاستوریزه پر چرب",
       "price": 10000,
-      "image": "images_2/PANIZAN_PASTORIZE_PORCHARB.webp"
+      "image": "images_2/PANIZAN_PASTORIZE_PORCHARB.webp",
+      "unit": "piece"
     },
     {
       "name": "پانیزان پاستوریزه کم چرب",
       "price": 10000,
-      "image": "images_2/PANIZAN_PASTORIZE_KAMCHARB.webp"
+      "image": "images_2/PANIZAN_PASTORIZE_KAMCHARB.webp",
+      "unit": "piece"
     },
     {
       "name": "چوپان پاستوریزه پر چرب",
       "price": 10000,
-      "image": "images_2/CHOOPAN_PASTORIZE_PORCHRB.webp"
+      "image": "images_2/CHOOPAN_PASTORIZE_PORCHRB.webp",
+      "unit": "piece"
     },
     {
       "name": "چوپان پاستوریزه کم چرب",
       "price": 10000,
-      "image": "images_2/CHOOPAN_PASTORIZE_KAMCHRB.webp"
+      "image": "images_2/CHOOPAN_PASTORIZE_KAMCHRB.webp",
+      "unit": "piece"
     },
     {
       "name": "پاک پاستوریزه پر چرب",
       "price": 10000,
-      "image": "images_2/PAK_PASTORIZE_PORCHARB.webp"
+      "image": "images_2/PAK_PASTORIZE_PORCHARB.webp",
+      "unit": "piece"
     },
     {
       "name": "پاک پاستوریزه کم چرب",
       "price": 10000,
-      "image": "images_2/PAK_PASTORIZE_KAMCHARB.webp"
+      "image": "images_2/PAK_PASTORIZE_KAMCHARB.webp",
+      "unit": "piece"
     },
     {
       "name": "ماهشام پاستوریزه پر چرب",
       "price": 10000,
-      "image": "images_2/MAHSHAM_PASTORIZE_PORCHARB.webp"
+      "image": "images_2/MAHSHAM_PASTORIZE_PORCHARB.webp",
+      "unit": "piece"
     },
     {
       "name": "ماهشام پاستوریزه کم چرب",
       "price": 10000,
-      "image": "images_2/MAHSHAM_PASTORIZE_KAMCHARB.webp"
+      "image": "images_2/MAHSHAM_PASTORIZE_KAMCHARB.webp",
+      "unit": "piece"
     }
   ]
 }
