@@ -3,97 +3,116 @@
     {
       "name": "گوجه",
       "price": 10000,
-      "image": "images/GOGE_SADE.webp"
+      "image": "images/GOGE_SADE.webp",
+      "unit": "kg"
     },
     {
       "name": "گوجه بوته ای",
       "price": 10000,
-      "image": "images/GOVGE_BOOTE.webp"
+      "image": "images/GOVGE_BOOTE.webp",
+      "unit": "kg"
     },
     {
       "name": "سیب زمینی",
       "price": 10000,
-      "image": "images/SIBZAMINI.webp"
+      "image": "images/SIBZAMINI.webp",
+      "unit": "kg"
     },
     {
       "name": "خیار درختی",
       "price": 10000,
-      "image": "images/Khyar.webp"
+      "image": "images/Khyar.webp",
+      "unit": "kg"
     },
     {
       "name": "خیار بوته ای",
       "price": 10000,
-      "image": "images/KHYAR_BOOTEII.webp"
+      "image": "images/KHYAR_BOOTEII.webp",
+      "unit": "kg"
     },
     {
       "name": "پیاز سفید",
       "price": 10000,
-      "image": "images/PIYAZ_SEFID.webp"
+      "image": "images/PIYAZ_SEFID.webp",
+      "unit": "kg"
     },
     {
       "name": "پیاز طلایی",
       "price": 10000,
-      "image": "images/PIYAZ_TALAYY.webp"
+      "image": "images/PIYAZ_TALAYY.webp",
+      "unit": "kg"
     },
     {
       "name": "هویج",
       "price": 10000,
-      "image": "images/HAVIG.webp"
+      "image": "images/HAVIG.webp",
+      "unit": "kg"
     },
     {
       "name": "بادمجان",
       "price": 10000,
-      "image": "images/BADEMJAN_SADE.webp"
+      "image": "images/BADEMJAN_SADE.webp",
+      "unit": "kg"
     },
     {
       "name": "بادمجان لامپی",
       "price": 10000,
-      "image": "images/BADEMGOON_LAMPY.webp"
+      "image": "images/BADEMGOON_LAMPY.webp",
+      "unit": "kg"
     },
     {
       "name": "کدو",
       "price": 10000,
-      "image": "images/KADOO.webp"
+      "image": "images/KADOO.webp",
+      "unit": "kg"
     },
     {
       "name": "کاهو",
       "price": 10000,
-      "image": "images/KAHOO_SADE.webp"
+      "image": "images/KAHOO_SADE.webp",
+      "unit": "kg"
     },
     {
       "name": "کاهو پیچ",
       "price": 10000,
-      "image": "images/KAHOO.webp"
+      "image": "images/KAHOO.webp",
+      "unit": "kg"
     },
     {
       "name": "فلفل تند",
       "price": 10000,
-      "image": "images/FELFEL_BOZARG.webp"
+      "image": "images/FELFEL_BOZARG.webp",
+      "unit": "kg"
     },
     {
       "name": "فلفل شیرین",
       "price": 10000,
-      "image": "images/FELFEL_SADE.webp"
+      "image": "images/FELFEL_SADE.webp",
+      "unit": "kg"
     },
     {
       "name": "کلم سفید",
       "price": 10000,
-      "image": "images/KALAM_SEFID.webp"
+      "image": "images/KALAM_SEFID.webp",
+      "unit": "kg"
     },
     {
       "name": "کلم بنفش",
       "price": 10000,
-      "image": "images/KALAM_BANAFSH.webp"
+      "image": "images/KALAM_BANAFSH.webp",
+      "unit": "kg"
     },
     {
       "name": "گل کلم",
       "price": 10000,
-      "image": "images/GOLKALAM.webp"
+      "image": "images/GOLKALAM.webp",
+      "unit": "kg"
     },
     {
       "name": "زنجبیل ساده",
       "price": 10000,
-      "image": "images/ZANGEBIL_SADE.webp"
+      "image": "images/ZANGEBIL_SADE.webp",
+      "unit": "kg"
     }
   ],
   "سبزی‌جات": [
