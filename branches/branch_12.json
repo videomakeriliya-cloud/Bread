@@ -101,6 +101,96 @@
       "name": "سبزی خوردن",
       "price": 10000,
       "image": "images/KHORDAN.webp"
+    },
+    {
+      "name": "ریحون",
+      "price": 10000,
+      "image": "images/REYHOON.webp"
+    },
+    {
+      "name": "ریحون تیره",
+      "price": 10000,
+      "image": "images/REYHOONSYA.webp"
+    },
+    {
+      "name": "جعفری",
+      "price": 10000,
+      "image": "images/GAFARI.webp"
+    },
+    {
+      "name": "شیوید",
+      "price": 10000,
+      "image": "images/SHEVID.webp"
+    },
+    {
+      "name": "تربچه",
+      "price": 10000,
+      "image": "images/TOROBCHE.webp"
+    },
+    {
+      "name": "پیازچه",
+      "price": 10000,
+      "image": "images/PIAZCHE.webp"
+    },
+    {
+      "name": "کلم بروکلی",
+      "price": 10000,
+      "image": "images/KALAMBROOKLY.webp"
+    },
+    {
+      "name": "کرفس",
+      "price": 10000,
+      "image": "images/KARAFS.webp"
+    },
+    {
+      "name": "رزماری",
+      "price": 10000,
+      "image": "images/ROZMARY.webp"
+    },
+    {
+      "name": "سیر",
+      "price": 10000,
+      "image": "images/SEER.webp"
+    },
+    {
+      "name": "شیوید خشک",
+      "price": 10000,
+      "image": "images/Shividkhoshk.webp"
+    },
+    {
+      "name": "نعنا خشک",
+      "price": 10000,
+      "image": "images/NANAKHOSHK.webp"
+    },
+    {
+      "name": "اسفناج",
+      "price": 10000,
+      "image": "images/ESSFENAJ.webp"
+    },
+    {
+      "name": "بلال",
+      "price": 10000,
+      "image": "images/BALAL.webp"
+    },
+    {
+      "name": "بلال مکزیکی",
+      "price": 10000,
+      "image": "images/BALALMAKZIKI.webp"
+    },
+    {
+      "name": "پولو",
+      "price": 10000,
+      "image": "images/POLO.webp"
+    },
+    {
+      "name": "آش",
+      "price": 10000,
+      "image": "images/ASH.webp"
+    },
+    {
+      "name": "قرمه",
+      "price": 10000,
+      "image": "images/GHORME.webp"
     }
   ],
   "میوه": [],
