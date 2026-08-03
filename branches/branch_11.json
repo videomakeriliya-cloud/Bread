@@ -275,6 +275,87 @@
       "image": "images/ANJIRGHERMEZ.webp"
     }
   ],
-  "میوه ۲": [],
+  "میوه ۲": [
+    {
+      "name": "موز",
+      "price": 10000,
+      "image": "images/MOOZ.webp"
+    },
+    {
+      "name": "انگور بی دونه",
+      "price": 10000,
+      "image": "images/ANGOORBIDOONE.webp"
+    },
+    {
+      "name": "انگور کندری",
+      "price": 10000,
+      "image": "images/ANGOORKONDORI.webp"
+    },
+    {
+      "name": "آلو سیاه",
+      "price": 10000,
+      "image": "images/ALOO.webp"
+    },
+    {
+      "name": "شبرنگ",
+      "price": 10000,
+      "image": "images/SHABRANG.webp"
+    },
+    {
+      "name": "انبه",
+      "price": 10000,
+      "image": "images/ANBE.webp"
+    },
+    {
+      "name": "گیلاس",
+      "price": 10000,
+      "image": "images/GILAS.webp"
+    },
+    {
+      "name": "ذغال اخته",
+      "price": 10000,
+      "image": "images/ZOGHALAKHTE.webp"
+    },
+    {
+      "name": "انگور سیاه",
+      "price": 10000,
+      "image": "images/ANGOORSYAH.webp"
+    },
+    {
+      "name": "آلبالو",
+      "price": 10000,
+      "image": "images/ALBALOOO.webp"
+    },
+    {
+      "name": "شاه توت",
+      "price": 10000,
+      "image": "images/SHATOOT.webp"
+    },
+    {
+      "name": "توت فرنگی",
+      "price": 10000,
+      "image": "images/TOOTFARANGI.webp"
+    },
+    {
+      "name": "بلو بری",
+      "price": 10000,
+      "image": "images/BLOOBERY.webp"
+    },
+    {
+      "name": "انگور یاقوتی",
+      "price": 10000,
+      "image": "images/ANGOORYAGHOOTI.webp"
+    },
+    {
+      "name": "پشن فروت",
+      "price": 10000,
+      "image": "images/PASHENFROOT.webp"
+    },
+    {
+      "name": "آناناس",
+      "price": 10000,
+      "image": "images/ANANAS.webp"
+    }
+  ],
   "میوه ۳": []
 }
