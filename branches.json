@@ -98,5 +98,55 @@
     "file": "branches/branch_20.json",
     "id": "branch_20",
     "name": "میوه فروشی شعبه ۱۰"
+  },
+  {
+    "file": "branches/branch_21.json",
+    "id": "branch_21",
+    "name": "سوپر مارکت شعبه ۱"
+  },
+  {
+    "file": "branches/branch_22.json",
+    "id": "branch_22",
+    "name": "سوپر مارکت شعبه ۲"
+  },
+  {
+    "file": "branches/branch_23.json",
+    "id": "branch_23",
+    "name": "سوپر مارکت شعبه ۳"
+  },
+  {
+    "file": "branches/branch_24.json",
+    "id": "branch_24",
+    "name": "سوپر مارکت شعبه ۴"
+  },
+  {
+    "file": "branches/branch_25.json",
+    "id": "branch_25",
+    "name": "سوپر مارکت شعبه ۵"
+  },
+  {
+    "file": "branches/branch_26.json",
+    "id": "branch_26",
+    "name": "سوپر مارکت شعبه ۶"
+  },
+  {
+    "file": "branches/branch_27.json",
+    "id": "branch_27",
+    "name": "سوپر مارکت شعبه ۷"
+  },
+  {
+    "file": "branches/branch_28.json",
+    "id": "branch_28",
+    "name": "سوپر مارکت شعبه ۸"
+  },
+  {
+    "file": "branches/branch_29.json",
+    "id": "branch_29",
+    "name": "سوپر مارکت شعبه ۹"
+  },
+  {
+    "file": "branches/branch_30.json",
+    "id": "branch_30",
+    "name": "سوپر مارکت شعبه ۱۰"
   }
 ]
