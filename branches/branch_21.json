@@ -1,4 +1,96 @@
 {
+  "نوشابه، دلستر، لیموناد": [
+    {
+      "name": "کوکاکولا خانواده",
+      "price": 10000,
+      "image": "images_2/KOOKA.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "کوکاکولا زیرو خانواده",
+      "price": 10000,
+      "image": "images_2/KOOKAZERO.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "کوکاکولا تک‌ نفره",
+      "price": 10000,
+      "image": "images_2/KOOKAMINI.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "فانتا خانواده",
+      "price": 10000,
+      "image": "images_2/FANTA.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "فانتا تک نفره",
+      "price": 10000,
+      "image": "images_2/FANTAMINI.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "سپرایت خانواده",
+      "price": 10000,
+      "image": "images_2/SEPRIT.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "سپرایت تک نفره",
+      "price": 10000,
+      "image": "images_2/SEPRITKOOCHIK.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "لیموناد خانواده",
+      "price": 10000,
+      "image": "images_2/LIMOONADBOZORGG.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "لیموناد تک‌ نفره",
+      "price": 10000,
+      "image": "images_2/LIMOONADmini.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "میراندا خانواده مشکی",
+      "price": 10000,
+      "image": "images_2/MORANDAMESHKI.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "میراندا خانواده نارنجی",
+      "price": 10000,
+      "image": "images_2/MIRANDAZARD.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دلستر کلاسیک",
+      "price": 10000,
+      "image": "images_2/DELESTER_KELASIC.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دلستر استوایی",
+      "price": 10000,
+      "image": "images_2/DELESTER_OSTOVAII.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دلستر هلو",
+      "price": 10000,
+      "image": "images_2/DELESTER_HOLOOO.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دلستر لیمو",
+      "price": 10000,
+      "image": "images_2/DELESTER_LIMOO.webp",
+      "unit": "piece"
+    }
+  ],
   "شیر": [
     {
       "name": "دامداران پاستوریزه پر چرب",
