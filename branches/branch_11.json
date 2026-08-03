@@ -193,7 +193,83 @@
       "image": "images/GHORME.webp"
     }
   ],
-  "میوه": [],
+  "میوه": [
+    {
+      "name": "سیب زرد",
+      "price": 10000,
+      "image": "images/SIB_SADE.webp"
+    },
+    {
+      "name": "سیب قرمز",
+      "price": 10000,
+      "image": "images/SIB_GERMEZ.webp"
+    },
+    {
+      "name": "سیب گلاب",
+      "price": 10000,
+      "image": "images/SIBGOLAB.webp"
+    },
+    {
+      "name": "پرتقال",
+      "price": 10000,
+      "image": "images/PORTEGHAL.webp"
+    },
+    {
+      "name": "گلابی",
+      "price": 10000,
+      "image": "images/GOLABI.webp"
+    },
+    {
+      "name": "گلابی گلاب",
+      "price": 10000,
+      "image": "images/GOLABI_GOLAB.webp"
+    },
+    {
+      "name": "لیمو ترش",
+      "price": 10000,
+      "image": "images/LIMOOTORSH.webp"
+    },
+    {
+      "name": "لیمو ترش سنگی",
+      "price": 10000,
+      "image": "images/LIMOOTORSH_SANGI.webp"
+    },
+    {
+      "name": "هلو",
+      "price": 10000,
+      "image": "images/HOLOO.webp"
+    },
+    {
+      "name": "هلو انجیری",
+      "price": 10000,
+      "image": "images/HOLOOANJIRI.webp"
+    },
+    {
+      "name": "شلیل",
+      "price": 10000,
+      "image": "images/SHALIL.webp"
+    },
+    {
+      "name": "آلو زرد",
+      "price": 10000,
+      "image": "images/ALOOZARD.webp"
+    },
+    {
+      "name": "آلو قرمز",
+      "price": 10000,
+      "image": "images/ALOOGHERMEZ.webp"
+    },
+    {
+      "name": "انجیر زرد",
+      "price": 10000,
+      "image": "images/ANJIR_ZARD.webp"
+    },
+    {
+      "name": "انجیر قرمز",
+      "price": 10000,
+      "image": "images/ANJIRGHERMEZ.webp"
+    }
+  ],
   "میوه ۲": [],
   "میوه ۳": []
 }
