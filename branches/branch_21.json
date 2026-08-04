@@ -179,9 +179,27 @@
   ],
   "دوغ": [
     {
-      "name": "دوغ سبزیجات معطر عالیس",
+      "name": "دوغ سبزیجات معطر دامداران",
       "price": 10000,
       "image": "images_2/DOOGH_S_M_DAMDARAN.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دوغ بدون گاز دامداران",
+      "price": 10000,
+      "image": "images_2/DOOGH_B_G_DAMDARAN.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دوغ سبزیجات دامداران",
+      "price": 10000,
+      "image": "images_2/DOOGH_S_M_DAMDARAN.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دوغ سنتی دامداران",
+      "price": 10000,
+      "image": "images_2/DOOGH_S_D.webp",
       "unit": "piece"
     },
     {
@@ -215,27 +233,9 @@
       "unit": "piece"
     },
     {
-      "name": "دوغ سنتی دامداران",
-      "price": 10000,
-      "image": "images_2/DOOGH_S_D.webp",
-      "unit": "piece"
-    },
-    {
-      "name": "دوغ بدون گاز دامداران",
-      "price": 10000,
-      "image": "images_2/DOOGH_B_G_DAMDARAN.webp",
-      "unit": "piece"
-    },
-    {
       "name": "دوغ نعنا بدون گاز‌ خوشگوار",
       "price": 10000,
       "image": "images_2/DOOGH_NANA_PEGAH_BEDOONGAZ.webp",
-      "unit": "piece"
-    },
-    {
-      "name": "دوغ سبزیجات دامداران",
-      "price": 10000,
-      "image": "images_2/DOOGH_S_M_DAMDARAN.webp",
       "unit": "piece"
     }
   ]
