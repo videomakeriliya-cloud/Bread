@@ -1,1 +1,242 @@
-
+{
+  "نوشابه، دلستر، لیموناد": [
+    {
+      "name": "کوکاکولا خانواده",
+      "price": 10000,
+      "image": "images_2/KOOKA.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "کوکاکولا زیرو خانواده",
+      "price": 10000,
+      "image": "images_2/KOOKAZERO.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "کوکاکولا تک‌ نفره",
+      "price": 10000,
+      "image": "images_2/KOOKAMINI.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "فانتا خانواده",
+      "price": 10000,
+      "image": "images_2/FANTA.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "فانتا تک نفره",
+      "price": 10000,
+      "image": "images_2/FANTAMINI.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "سپرایت خانواده",
+      "price": 10000,
+      "image": "images_2/SEPRIT.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "سپرایت تک نفره",
+      "price": 10000,
+      "image": "images_2/SEPRITKOOCHIK.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "لیموناد خانواده",
+      "price": 10000,
+      "image": "images_2/LIMOONADBOZORGG.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "لیموناد تک‌ نفره",
+      "price": 10000,
+      "image": "images_2/LIMOONADmini.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "میراندا خانواده مشکی",
+      "price": 10000,
+      "image": "images_2/MORANDAMESHKI.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "میراندا خانواده نارنجی",
+      "price": 10000,
+      "image": "images_2/MIRANDAZARD.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دلستر کلاسیک",
+      "price": 10000,
+      "image": "images_2/DELESTER_KELASIC.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دلستر استوایی",
+      "price": 10000,
+      "image": "images_2/DELESTER_OSTOVAII.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دلستر هلو",
+      "price": 10000,
+      "image": "images_2/DELESTER_HOLOOO.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دلستر لیمو",
+      "price": 10000,
+      "image": "images_2/DELESTER_LIMOO.webp",
+      "unit": "piece"
+    }
+  ],
+  "شیر": [
+    {
+      "name": "دامداران پاستوریزه پر چرب",
+      "price": 10000,
+      "image": "images_2/DAMDARAN_PASTORIZR_PORCHARB.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دامداران پاستوریزه کم چرب",
+      "price": 10000,
+      "image": "images_2/DAMDARAN_PASTORIZE_KAMCHARB.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "پگاه پاستوریزه پر چرب",
+      "price": 10000,
+      "image": "images_2/PEGAH_PASTORIZE_PORCHARB.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "پگاه پاستوریزه کم چرب",
+      "price": 10000,
+      "image": "images_2/PEGAH_PASTORIZE_KAMCHARB.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "کاله پاستوریزه پر چرب",
+      "price": 10000,
+      "image": "images_2/KALEH_PASTORIZE_PORCHARB.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "کاله پاستوریزه کم چرب",
+      "price": 10000,
+      "image": "images_2/KALEH_PASTORIZE_KAMXHARB.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "پانیزان پاستوریزه پر چرب",
+      "price": 10000,
+      "image": "images_2/PANIZAN_PASTORIZE_PORCHARB.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "پانیزان پاستوریزه کم چرب",
+      "price": 10000,
+      "image": "images_2/PANIZAN_PASTORIZE_KAMCHARB.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "چوپان پاستوریزه پر چرب",
+      "price": 10000,
+      "image": "images_2/CHOOPAN_PASTORIZE_PORCHRB.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "چوپان پاستوریزه کم چرب",
+      "price": 10000,
+      "image": "images_2/CHOOPAN_PASTORIZE_KAMCHRB.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "پاک پاستوریزه پر چرب",
+      "price": 10000,
+      "image": "images_2/PAK_PASTORIZE_PORCHARB.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "پاک پاستوریزه کم چرب",
+      "price": 10000,
+      "image": "images_2/PAK_PASTORIZE_KAMCHARB.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "ماهشام پاستوریزه پر چرب",
+      "price": 10000,
+      "image": "images_2/MAHSHAM_PASTORIZE_PORCHARB.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "ماهشام پاستوریزه کم چرب",
+      "price": 10000,
+      "image": "images_2/MAHSHAM_PASTORIZE_KAMCHARB.webp",
+      "unit": "piece"
+    }
+  ],
+  "دوغ": [
+    {
+      "name": "دوغ سبزیجات معطر دامداران",
+      "price": 10000,
+      "image": "images_2/DOOGH_S_M_DAMDARAN.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دوغ بدون گاز دامداران",
+      "price": 10000,
+      "image": "images_2/DOOGH_B_G_DAMDARAN.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دوغ سبزیجات دامداران",
+      "price": 10000,
+      "image": "images_2/DOOGH_S_M_DAMDARAN.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دوغ سنتی دامداران",
+      "price": 10000,
+      "image": "images_2/DOOGH_S_D.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دوغ ۸‌گیاه عالیس",
+      "price": 10000,
+      "image": "images_2/DOOGH_8_GYAH_ALIS.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دوغ نعنا عالیس",
+      "price": 10000,
+      "image": "images_2/DOOGH_NANA_ALIS.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دوغ تک نفره نعنا عالیس",
+      "price": 10000,
+      "image": "images_2/DOOGH_T_NANA_ALIS.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دوغ آبعلی",
+      "price": 10000,
+      "image": "images_2/DOOGH_KH_A.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دوغ تک نفره آبعلی",
+      "price": 10000,
+      "image": "images_2/DOOGH_T_A.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دوغ نعنا بدون گاز‌ خوشگوار",
+      "price": 10000,
+      "image": "images_2/DOOGH_NANA_PEGAH_BEDOONGAZ.webp",
+      "unit": "piece"
+    }
+  ]
+}
