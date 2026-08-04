@@ -855,5 +855,79 @@
       "image": "images_3/CHARB_250GR.jpg",
       "unit": "piece"
     }
+  ],
+  "کره": [
+    {
+      "name": "کره ۱۰ گرمی دامداران",
+      "price": 10000,
+      "image": "images_3/KARE_10GR.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "کره ۵۰ گرمي دامداران",
+      "price": 10000,
+      "image": "images_3/KARE_50GR.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "کره ۱۰۰ گرمی دامداران",
+      "price": 10000,
+      "image": "images_3/KARE_100GR.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "کره حیوانی ۴۵۰ گرمی دامداران",
+      "price": 10000,
+      "image": "images_3/KARE_450HEIVANI.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "کره ۲۵ گرمی پاک",
+      "price": 10000,
+      "image": "images_3/KARE_25GR_PAK.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "کره ۵۰  گرمی پاک",
+      "price": 10000,
+      "image": "images_3/KARE_50GR_PAK.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "کره ۱۰۰ گرمی پاک",
+      "price": 10000,
+      "image": "images_3/KARE_100GR_PAK.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "کره ۲۰۰ گرمی حیوانی ميهن",
+      "price": 10000,
+      "image": "images_3/KARE_200GR_HEIVANI_MIHAN.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "کره ۲۵ گرمی میهن",
+      "price": 10000,
+      "image": "images_3/KARE_25GR_MIHAN.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "کره ۵۰ گرمی میهن",
+      "price": 10000,
+      "image": "images_3/KARE_50GR_MIHAN.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "کره ۱۰۰ گرمي میهن",
+      "price": 10000,
+      "image": "images_3/KARE_100GR_MIHAN.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "کره ۲۵۰ گرمي میهن",
+      "price": 10000,
+      "image": "images_3/KARE_250GR_MIHAN.webp",
+      "unit": "piece"
+    }
   ]
 }
