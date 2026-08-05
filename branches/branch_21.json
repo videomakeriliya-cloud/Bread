@@ -1293,6 +1293,72 @@
       "price": 10000,
       "image": "images_3/ZARDCHOBE_SAHARKHIZ_500GR.jpg",
       "unit": "piece"
+    },
+    {
+      "name": "فلفل سیاه دلپذیر",
+      "price": 10000,
+      "image": "images_3/Felfel-Ghermez02-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سماق دلپذیر",
+      "price": 10000,
+      "image": "images_3/Somagh04-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "دارچین دلپذیر",
+      "price": 10000,
+      "image": "images_3/Darchin02-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "آویشن دلپذیر",
+      "price": 10000,
+      "image": "images_3/Avishan02-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "پودر سیر دلپذیر",
+      "price": 10000,
+      "image": "images_3/garlic-powder-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "ادویه کاری دلپذیر",
+      "price": 10000,
+      "image": "images_3/Curry-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "جوش شیرین دلپذیر",
+      "price": 10000,
+      "image": "images_3/baking-soda-1-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "گلپر دلپذیر",
+      "price": 10000,
+      "image": "images_3/angelica-ground-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "پودر فلفل پاپریکا دلپذیر",
+      "price": 10000,
+      "image": "images_3/paprika-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "نعنا خشک دلپذیر",
+      "price": 10000,
+      "image": "images_3/dried-mint-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "پودر فلفل سیاه دلپذیر",
+      "price": 10000,
+      "image": "images_3/black-pepper-corns-400x400.png",
+      "unit": "piece"
     }
   ],
   "روغن": [
@@ -1384,6 +1450,128 @@
       "name": "روغن زیتون تصفیه شده ۵۰۰ گرمی لادن",
       "price": 10000,
       "image": "images_3/LADAN_ZT_500GR.jpg",
+      "unit": "piece"
+    }
+  ],
+  "سس": [
+    {
+      "name": "سس مایونز ۲۸۰ گرمي دلپذیر",
+      "price": 10000,
+      "image": "images_3/S_MAYONEZ_280GR.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سس مایونز ۴۰۰ گرمی موشکی دلپذیر",
+      "price": 10000,
+      "image": "images_3/S_MAYONEZ_400GR.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سس مایونز ۴۵۰ گرمی دلپذیر",
+      "price": 10000,
+      "image": "images_3/S_MAYONEZ_450GR.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سس مایونز ۹۵۰ گرمی دلپذیر",
+      "price": 10000,
+      "image": "images_3/",
+      "unit": "piece"
+    },
+    {
+      "name": "سس مایونز ۱۲۰۰ گرمی دلپذیر",
+      "price": 10000,
+      "image": "images_3/S_MAYONEZ_1200GR.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سس مایونز ۱۸۰۰ گرمی دلپذیر",
+      "price": 10000,
+      "image": "images_3/S_MAYONEZ_1800GR.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سس هزار جزيره دلپذیر",
+      "price": 10000,
+      "image": "images_3/S_F_D.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سس فرانسوی دلپذیر",
+      "price": 10000,
+      "image": "images_3/S_F_D.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سس چیلی دلپذیر",
+      "price": 10000,
+      "image": "images_3/Chilli2-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سس گوجه دلپذیر",
+      "price": 10000,
+      "image": "images_3/Ranch-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سس گارلیک دلپذیر",
+      "price": 10000,
+      "image": "images_3/Garlic2-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سس ماست دلپذیر",
+      "price": 10000,
+      "image": "images_3/Yoghurt2-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سس ایتالین دلپذیر",
+      "price": 10000,
+      "image": "images_3/Italian2-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سس بالزامیک دلپذیر",
+      "price": 10000,
+      "image": "images_3/Balsamic9-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سس تای دلپذیذ",
+      "price": 10000,
+      "image": "images_3/Thai2-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سس چیلی گارلیک دلپذیر",
+      "price": 10000,
+      "image": "images_3/Chilli-Garlic2-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سس سیر سیاه دلپذیر",
+      "price": 10000,
+      "image": "images_3/Black-Garlic2-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سس کچاپ دلپذیر",
+      "price": 10000,
+      "image": "images_3/Ketchup-Farsi-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سس کچاپ تند دلپذیر",
+      "price": 10000,
+      "image": "images_3/Hot-Ketchup-Farsi-1-400x400.png",
+      "unit": "piece"
+    },
+    {
+      "name": "سس هالووین دلپذیر",
+      "price": 10000,
+      "image": "images_3/jalapeno-400x400.png",
       "unit": "piece"
     }
   ]
