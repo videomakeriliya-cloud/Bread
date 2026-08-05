@@ -930,6 +930,61 @@
       "unit": "piece"
     }
   ],
+  "کشک": [
+    {
+      "name": "کشک ۲۳۰ گرمی دامداران",
+      "price": 10000,
+      "image": "images_3/KASHKP_230.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "کشک ۵۰۰ گرمی دامداران",
+      "price": 10000,
+      "image": "images_3/KASHKP_500.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "کشک ۲۴۰ گرمی دامداران",
+      "price": 10000,
+      "image": "images_3/KASHKS_240GR.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "کشک ۶۸۰ گرمی دامداران",
+      "price": 10000,
+      "image": "images_3/KASHKS_680HR.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "کشک ۲۵۰ گرمی پگاه",
+      "price": 10000,
+      "image": "images_3/KASHK_PEGAH_250GR.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "کشک ۵۰۰ گرمی پگاه",
+      "price": 10000,
+      "image": "images_3/KASHK_PEGAH_500GR.jpg"
+    },
+    {
+      "name": "کشک شیشه ای پگاه",
+      "price": 10000,
+      "image": "images_3/KASHK_PWGAH_SHISHEII.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "کشک ۵۰۰ گرمی پاک",
+      "price": 10000,
+      "image": "images_3/KASHK_PAK_500GR.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "کشک ۱۵۰۰ گرمی پاک",
+      "price": 10000,
+      "image": "images_3/KASHK_PAK_1500HR.webp",
+      "unit": "piece"
+    }
+  ],
   "خامه": [
     {
       "name": "خامه صبحانه ۱۰۰ گرمی دامداران",
