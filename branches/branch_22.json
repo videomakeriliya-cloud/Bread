@@ -2251,5 +2251,285 @@
       "image": "images_3/n2v0fij0.png",
       "unit": "piece"
     }
+  ],
+  "مایه دستشویی، ظرف شویی": [
+    {
+      "name": "مایع دست شویی ۲ کیلو گرمی زرد گلرنگ",
+      "price": 10000,
+      "image": "images_3/G400Z.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع دست شویی ۲ کیلو گرمی بنفش گلرنگ",
+      "price": 10000,
+      "image": "images_3/G400B.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع دست شویی ۲ کیلو گرمی قرمز گلرنگ",
+      "price": 10000,
+      "image": "images_3/G400GH.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع دست شویی آبی ۳ کیلو گرمی گلرنگ",
+      "price": 10000,
+      "image": "images_3/G3a.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع دست شویی زرد ۳ کیلو گرمی گلرنگ",
+      "price": 10000,
+      "image": "images_3/G3SSS.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع دست شویی سبز ۳ کیلو گرمی گلرنگ",
+      "price": 10000,
+      "image": "images_3/G3S.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی لیمو ۱ کیلو گرمی گلرنگ",
+      "price": 10000,
+      "image": "images_3/GL1.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی لیمو ۳کیلو گرمی گلرنگ",
+      "price": 10000,
+      "image": "images_3/GL3.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی پرتقال ۱ کیلو گرمی گلرنگ",
+      "price": 10000,
+      "image": "images_3/GP1.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی پرتقال ۳ کیلو گرمی گلرنگ",
+      "price": 10000,
+      "image": "images_3/GP3.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی دورتو سیب ۱ کیلو گرمی",
+      "price": 10000,
+      "image": "images_3/S1.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی دورتو سیب ۳ کیلو گرمی",
+      "price": 10000,
+      "image": "images_3/S3.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی دورتو لیمو ۱ کیلو گرمی",
+      "price": 10000,
+      "image": "images_3/L1.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی دورتو لیمو ۳ کیلو گرمی",
+      "price": 10000,
+      "image": "images_3/L3.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی ۵۰۰ گرمی خاکستر",
+      "price": 10000,
+      "image": "images_3/KH500.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی ۱ کیلو گرمی خاکستر",
+      "price": 10000,
+      "image": "images_3/KH1.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی ۳ کیلو گرمی خاکستر",
+      "price": 10000,
+      "image": "images_3/KH3.webp",
+      "unit": "piece"
+    }
+  ],
+  "بهداشتی و فردی": [
+    {
+      "name": "شامپو مولتی ویتامین مخصوص مو های معمولی گلرنگ",
+      "price": 10000,
+      "image": "images_3/MAMOOLI.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "شامپو مولتی ویتامین مخصوص مو های خشک گلرنگ",
+      "price": 10000,
+      "image": "images_3/KHOSHK.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "شامپو مولتی ویتامین مخصوص مو های چرب گلرنگ",
+      "price": 10000,
+      "image": "images_3/CHARB.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "شامپو بدن اوه با عصاره کاکائو",
+      "price": 10000,
+      "image": "images_3/BADANKAKAO.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "شامپو بدن اوه با عصاره بامبو",
+      "price": 10000,
+      "image": "images_3/BADANBAMBO.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "شامپو بدن اوه با عصاره آکوا",
+      "price": 10000,
+      "image": "images_3/BADANAQUA.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "شامپو صدر صحت",
+      "price": 10000,
+      "image": "images_3/ho1pi5q4.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "شامپو بابونه صحت",
+      "price": 10000,
+      "image": "images_3/255ahfwr.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "شامپو حنای صحت",
+      "price": 10000,
+      "image": "images_3/xn3k3lsd.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "شامپو سیر صحت",
+      "price": 10000,
+      "image": "images_3/ezduryy5.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "شامپو ضد شوره صحت",
+      "price": 10000,
+      "image": "images_3/j3ku54va.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "شامپو پروتئینه صحت",
+      "price": 10000,
+      "image": "images_3/ff3fqdyx.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "شامپو حاوی عصاره نارگیل صحت",
+      "price": 10000,
+      "image": "images_3/zyen5y44.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "شامپو بدن حاوی عصاره گوار و گلیسیرین صحت",
+      "price": 10000,
+      "image": "images_3/BADAN.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "شامپو بدن گلرنگ",
+      "price": 10000,
+      "image": "images_3/BADAN2.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "صابون گلنار",
+      "price": 10000,
+      "image": "images_3/114916007.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "صابون آبی لوکس",
+      "price": 10000,
+      "image": "images_3/LUX_1.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "صابون سبز لوکس",
+      "price": 10000,
+      "image": "images_3/LUX_2.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "صابون صدفی لوکس",
+      "price": 10000,
+      "image": "images_3/LUX_3.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "صابون صورتی لوکس",
+      "price": 10000,
+      "image": "images_3/LUX_4.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "صابون صدفی لوکس",
+      "price": 10000,
+      "image": "images_3/LUX_4.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "صابون آبی لوکس",
+      "price": 10000,
+      "image": "images_3/ADOBE.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "صابون صورتی لوکس",
+      "price": 10000,
+      "image": "images_3/Sssdove.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دستمال کاغذی تنو",
+      "price": 10000,
+      "image": "images_3/A1.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دستمال کاغذی پاویا",
+      "price": 10000,
+      "image": "images_3/A7.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دستمال سرویس بهداشتی تنو",
+      "price": 10000,
+      "image": "images_3/A2.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دستمال سرویس بهداشتی پاپیا",
+      "price": 10000,
+      "image": "images_3/A4.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دستمال حوله ای تنو",
+      "price": 10000,
+      "image": "images_3/A3.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "دستمال حوله ای پاپیا",
+      "price": 10000,
+      "image": "images_3/A3.webp",
+      "unit": "piece"
+    }
   ]
 }
