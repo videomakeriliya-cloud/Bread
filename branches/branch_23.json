@@ -2141,5 +2141,219 @@
       "image": "images_3/1784620463134-ht2wb1s3ry.webp",
       "unit": "piece"
     }
+  ],
+  "پودر و مایع ماشین لباس شویی، ظرف شویی": [
+    {
+      "name": "تاید دستی ۶۰۰ گرمی ناژ",
+      "price": 10000,
+      "image": "images_3/LDT.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "تاید دستی ۶۰۰ گرمی تاژ",
+      "price": 10000,
+      "image": "images_3/LDT600.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "پودر ماشین لباس شویی ۶۰۰ گرمی تاژ",
+      "price": 10000,
+      "image": "images_3/LMT600.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "پودر ماشین لباس شویی ۳ کیلو گرمی تاژ",
+      "price": 10000,
+      "image": "images_3/LMT3000.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ماشین لباس شویی ۱ کیلو گرمی تاژ",
+      "price": 10000,
+      "image": "images_3/RT.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ماشین لباس شویی رنگین شوی 1 کیلو گرمی تاژ",
+      "price": 10000,
+      "image": "images_3/MLSH1000.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ماشین لباس شویی ۲.۷ کیلو گرمی تاژ",
+      "price": 10000,
+      "image": "images_3/RT2.7K.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ماشین لباس شویی ۱ کیلو گرمی رنگین شوی تاژ",
+      "price": 10000,
+      "image": "images_3/ML2.7SH.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "تاید دستی ۶۰۰ گرمی پرسیل",
+      "price": 10000,
+      "image": "images_3/D.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "پودر ماشین لباس شویی ۶۰۰ گرمی پرسیل",
+      "price": 10000,
+      "image": "images_3/M.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ماشین لباس شویی ۱ کیلو گرمی پرسیل",
+      "price": 10000,
+      "image": "images_3/MM.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ماشین لباس شویی ۲.۷ کیلو گرمی پرسیل",
+      "price": 10000,
+      "image": "images_3/roqatons.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ماشین لباس شویی مشکین شوی ۱ کیلو گرمی پرسیل",
+      "price": 10000,
+      "image": "images_3/ymux1qsc.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ماشین لباس شویی ۱ کیلو گرمی رنگين شوی پرسیل",
+      "price": 10000,
+      "image": "images_3/z3dz34ms.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "تاید دستی هوم کر",
+      "price": 10000,
+      "image": "images_3/118024074.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "پودر ماشین لباس شویی ۶۰۰ گرمی هوم کر",
+      "price": 10000,
+      "image": "images_3/yby3ewmx.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع مشکین شوی هوم کر",
+      "price": 10000,
+      "image": "images_3/gpjoverc.jpg",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ماشین لباس شویی رنگین شوی هوم کر",
+      "price": 10000,
+      "image": "images_3/n2v0fij0.png",
+      "unit": "piece"
+    }
+  ],
+  "مایه دستشویی، ظرف شویی": [
+    {
+      "name": "مایع دست شویی ۲ کیلو گرمی زرد گلرنگ",
+      "price": 10000,
+      "image": "images_3_G400Z.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع دست شویی ۲ کیلو گرمی بنفش گلرنگ",
+      "price": 10000,
+      "image": "images_3/G400B.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع دست شویی ۲ کیلو گرمی قرمز گلرنگ",
+      "price": 10000,
+      "image": "images_3/G400GH.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع دست شویی آبی ۳ کیلو گرمی گلرنگ",
+      "price": 10000,
+      "image": "images_3/G3a.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع دست شویی زرد ۳ کیلو گرمی گلرنگ",
+      "price": 10000,
+      "image": "images_3/G3SSS.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع دست شویی سبز ۳ کیلو گرمی گلرنگ",
+      "price": 10000,
+      "image": "images_3/G3S.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی لیمو ۱ کیلو گرمی گلرنگ",
+      "price": 10000,
+      "image": "images_3/GL1.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی لیمو ۳کیلو گرمی گلرنگ",
+      "price": 10000,
+      "image": "images_3/GL3.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی پرتقال ۱ کیلو گرمی گلرنگ",
+      "price": 10000,
+      "image": "images_3/GP1.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی پرتقال ۳ کیلو گرمی گلرنگ",
+      "price": 10000,
+      "image": "images_3/GP3.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی دورتو سیب ۱ کیلو گرمی",
+      "price": 10000,
+      "image": "images_3/S1.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی دورتو سیب ۳ کیلو گرمی",
+      "price": 10000,
+      "image": "images_3/S3.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی دورتو لیمو ۱ کیلو گرمی",
+      "price": 10000,
+      "image": "images_3/L1.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی دورتو لیمو ۳ کیلو گرمی",
+      "price": 10000,
+      "image": "images_3/L3.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی ۵۰۰ گرمی خاکستر",
+      "price": 10000,
+      "image": "images_3/KH500.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی ۱ کیلو گرمی خاکستر",
+      "price": 10000,
+      "image": "images_3/KH1.webp",
+      "unit": "piece"
+    },
+    {
+      "name": "مایع ظرف شویی ۳ کیلو گرمی خاکستر",
+      "price": 10000,
+      "image": "images_3/KH3.webp",
+      "unit": "piece"
+    }
   ]
 }
